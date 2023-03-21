@@ -3108,21 +3108,21 @@
     regenerator-runtime "^0.13.7"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-interactions@^6.5.12":
-  version "6.5.12"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-interactions/-/addon-interactions-6.5.12.tgz#b9b7ae50de4c41ea2c9023dcaacf3f318a072ea4"
-  integrity sha512-wAkKqUX57qZMzgykMIltjDrFfA0II+pKz2SchK4hXHK3/2rtOe+Ah0Sj5nTQo++Ee5oC1PVZWIq/Y1kufCTBJQ==
+"@storybook/addon-interactions@^6.5.16":
+  version "6.5.16"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-interactions/-/addon-interactions-6.5.16.tgz#2855fe946c9d8595c3486ae696f1d99e7fca582b"
+  integrity sha512-DdTtyp3DgB/SpbM1GQgMnuSEBCkadxmj1mUcPk+Wp2iY+fDwsuoRDkr1H9Oe7IvlBKe7ciR79LEjoaABXNdw4w==
   dependencies:
     "@devtools-ds/object-inspector" "^1.1.2"
-    "@storybook/addons" "6.5.12"
-    "@storybook/api" "6.5.12"
-    "@storybook/client-logger" "6.5.12"
-    "@storybook/components" "6.5.12"
-    "@storybook/core-common" "6.5.12"
-    "@storybook/core-events" "6.5.12"
+    "@storybook/addons" "6.5.16"
+    "@storybook/api" "6.5.16"
+    "@storybook/client-logger" "6.5.16"
+    "@storybook/components" "6.5.16"
+    "@storybook/core-common" "6.5.16"
+    "@storybook/core-events" "6.5.16"
     "@storybook/csf" "0.0.2--canary.4566f4d.1"
-    "@storybook/instrumenter" "6.5.12"
-    "@storybook/theming" "6.5.12"
+    "@storybook/instrumenter" "6.5.16"
+    "@storybook/theming" "6.5.16"
     core-js "^3.8.2"
     global "^4.4.0"
     jest-mock "^27.0.6"
@@ -3847,14 +3847,14 @@
     lodash "^4.17.21"
     regenerator-runtime "^0.13.7"
 
-"@storybook/instrumenter@6.5.12", "@storybook/instrumenter@^6.4.0":
-  version "6.5.12"
-  resolved "https://registry.yarnpkg.com/@storybook/instrumenter/-/instrumenter-6.5.12.tgz#acd721c50b65183a53fb5913fe7cdb35b06e2433"
-  integrity sha512-VMl+Yg6ab79A1VqlhC69sBFI6ySw4Lganqdf9JJf6Y7uNRcZwsjfGpGfYiL4WGH1q72tGiq/25XKGIJV0jgi1Q==
+"@storybook/instrumenter@6.5.16", "@storybook/instrumenter@^6.4.0":
+  version "6.5.16"
+  resolved "https://registry.yarnpkg.com/@storybook/instrumenter/-/instrumenter-6.5.16.tgz#62acd94e35f1ec403dbc0145b026dfc042ca2f65"
+  integrity sha512-q8/GaBk8PA/cL7m5OW+ec5t63+Zja9YvYSPGXrYtW17koSv7OnNPmk6RvI7tIHHO0mODBYnaHjF4zQfEGoyR5Q==
   dependencies:
-    "@storybook/addons" "6.5.12"
-    "@storybook/client-logger" "6.5.12"
-    "@storybook/core-events" "6.5.12"
+    "@storybook/addons" "6.5.16"
+    "@storybook/client-logger" "6.5.16"
+    "@storybook/core-events" "6.5.16"
     core-js "^3.8.2"
     global "^4.4.0"
 
