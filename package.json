@@ -48,7 +48,7 @@
     "@graphql-codegen/typescript-operations": "^2.5.3",
     "@graphql-codegen/typescript-react-query": "^4.0.1",
     "@storybook/addon-actions": "^6.5.12",
-    "@storybook/addon-essentials": "^6.5.12",
+    "@storybook/addon-essentials": "^7.0.18",
     "@storybook/addon-interactions": "^6.5.12",
     "@storybook/addon-links": "^6.5.12",
     "@storybook/addon-postcss": "^2.0.0",
